@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: TotemV2_left
+    shield: totem_left
   - board: nice_nano_v2
-    shield: TotemV2_right
+    shield: totem_right
